@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/WN_M1 DV1Arena.unity
+    guid: d2c248989123be84f87c51b9a0b731a7
+  - enabled: 1
+    path: Assets/Scenes/hero_born_remix_01.unity
+    guid: 10da85a588ee0ea42a42afc144abf7df
+  m_configObjects: {}
